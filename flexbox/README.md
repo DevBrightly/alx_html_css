@@ -1,0 +1,1 @@
+This is a project that teaches how to apply FLEXBOX in stages to see the effects and usefulness of this web layout model.
